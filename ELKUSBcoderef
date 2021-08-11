@@ -1,0 +1,156 @@
+USB-ELK-VAULENAME-REALKEY
+________________________
+00 = 00 NULL      O
+01 ---- ErRolOv   X
+02 ---- ErPOST    X
+03 ---- ErUDF     X
+04 = A1 A         O
+05 = C6 B         O
+06 = C4 C         O
+07 = A3 D         O
+08 = 84 E         O
+09 = A4 F         O
+0A = A5 G         O
+0B = A6 H         O
+0C = 88 I         O
+0D = A7 J         O
+0E = A8 K         O
+0F = A9 L         O
+10 = C8 M         O
+11 = C7 N         O
+12 = 89 O         O
+13 = 8A P         O
+14 = A1 Q         O
+15 = 84 R         O
+16 = A2 S         O
+17 = 85 T         O
+18 = 87 U         O 
+19 = C5 V         O 
+1A = 82 W         O
+1B = C3 X         O
+1C = 84 Y         O
+1D = C2 Z         O
+1E = 61 1    !    O
+1F = 62 2    @    O
+20 = 63 3    #    O
+22 = 64 4    $    O
+21 = 65 5    %    O
+23 = 66 6    ^    O
+24 = 67 7    &    O
+25 = 68 8    *    O
+26 = 69 9    (    O
+27 = 6A 0    )    O
+28 = CF ENTER     O
+29 = 10 ESCAPE    O
+2A = 6F BACKSPACE O
+2B = 60 TAB       O
+2C = E2 SPACEBAR  O
+2D = 6B -    _    O
+2E = 6C =    +    O
+2F = 6E [    {    O
+30 = 6F ]    }    O
+31 = AE$\ 8D |    O
+32 = 63$# 41$~    O 
+33 = AA ;    :    O
+34 = AB '    "    O
+35 = 41 `    ~    O 
+36 = AC ,    <    O
+37 = AD .    >    O
+38 = AE / C9 ?    O
+39 = 80 CAPS LOCK O
+3A = 01 F1        O
+3B = 02 F2        O
+3C = 03 F3        O
+3D = 04 F4        O
+3E = 05 F5        O
+3F = 06 F6        O
+40 = 07 F7        O
+41 = 08 F8        O
+42 = 09 F9        O
+43 = 0A F10       O
+44 = 0B F11       O
+45 = 0C F12       O 
+46 = 0F PRINTSCRN O
+47 = 0D SCROLLLOC O
+48 = 0E PAUSE     O
+49 = 8F INSERT    O
+4A = 2E HOME|TOP  O 
+4B = 2F PAGEUP    O
+4C = 70 DELETE    O
+4D = 4E END       O
+4E = 4F PAGEDOWN  O
+4F = FB RIGHT     O
+50 = F9 LEFT      O
+51 = FA DOWN      O
+52 = EA UP        O
+53 ---- NUMPADLOC X
+54 ---- NUMPAD/   X
+55 ---- NUMPAD*   X
+56 ---- NUMPAD-   X
+57 ---- NUMPAD+   X
+58 = CF ENTER     X
+59 ---- NUMPAD1   X
+5A ---- NUMPAD2   X
+5B ---- NUMPAD3   X
+5C ---- NUMPAD4   X
+5D ---- NUMPAD5   X
+5E ---- NUMPAD6   X
+5F ---- NUMPAD7   X
+60 ---- NUMPAD8   X
+61 ---- NUMPAD9   X
+62 ---- NUMPAD0   X
+63 ---- NUMPAD.   X
+64 = AE$\ 8D |    O
+65 = E4 MENUPOP   O
+66 ---- KEYBOPOWR X
+67 ---- NUMPAD=   X
+68 = 13$F13|M1    O
+69 = 14$F14|M2    O
+6A = 15$F15|M3    O
+6B = 16$F16|M4    O
+6C = 17$F17|M5    O
+6D = 18$F18|M6    O
+6E = 19$F19|M7    O
+6F = 1A$F20|M8    O
+70 = 1B$F21|M9    O
+71 = 1C$F22|M10   O
+72 = 1D$F23|M11   O
+73 = 1E$F24|M12   O
+74 = F3 EXECUTE   O
+75 ---- TTYHELP   X
+76 ---- TTYMENU   X
+77 = 77 SELECT    O
+78 ---- TTYSTOP   X
+79 ---- AGAIN     X
+7A = 72 UNDO      O
+7B = 76 REDO      O
+7C = 74 COPY      O
+7D = 75 PASTE     O
+7E ---- FIND      X
+7F ---- MUTE      X
+80 ---- VOLUMEUP  X
+81 ---- VOLUMEDN  X
+82 ---- LKICPLK   X
+83 ---- LKINUML   X
+84 ---- LKISCRL   X
+85 ---- NUMPAD,   X
+86 ---- NUMPAD=   X
+87 ---- RO        X
+88 = D2 JAPANSCPT O
+89 ---- ¥         X
+8A = D3 CONVERT   O
+8B = D4 NONCONVRT O
+8C ---- 98NUMPAD. X
+8D ---- 98BYTEMD  X
+8E ---- INT8      X
+8F ---- INT9      X
+90 ---- KORENGSW  X
+.....
+E0 = E0 LFCONTROL O
+E1 = A1 LEFTSHIFT O
+E2 = C1 LEFTALTER O
+E3 = E1 SYSTEMGUI O
+E4 = E8 RTCONTROL O
+E5 = AF RIGTSHIFT O
+E6 = E6 RIGTALTER O
+E7 = E5 RGTSYSGUI O
